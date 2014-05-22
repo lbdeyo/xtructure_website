@@ -1,0 +1,36 @@
+body {
+    /*background-color: #fdfbe6;*/
+    background-color: #cccccc;
+}
+
+.col-md-12 {
+    background-color: white;
+    padding-bottom: 30px;
+}
+
+.col-md-4 {
+    padding: 15px;
+}
+p.intro {
+    width: 50%;
+}
+
+.btn {
+    background-color: #74b723;
+    border: 0;
+}
+
+.btn:hover {
+    background-color: #7fd417;
+    border: 0;
+}
+
+.btn:active{
+    background-color: #74b723;
+    border: 0;
+}
+
+.front-page-image {
+    width: 320px;
+    margin: 5px;
+}
